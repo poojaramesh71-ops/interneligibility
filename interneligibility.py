@@ -11,4 +11,5 @@ age = int(input("Enter age: "))
 percentage = float(input("Enter percentage: "))
 
 result = check_intern_eligibility(age, percentage)
+
 print("Eligibility Status:", result)
